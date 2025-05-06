@@ -32,4 +32,4 @@
 - โปรเจคนี้ใช้เพื่อกรณีศึกษาเท่านั้น
 
 ## สร้างโดย
-#Thammarach Decutai
+Thammarach Decutai
