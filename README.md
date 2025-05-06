@@ -10,4 +10,8 @@
 ## การติดตั้ง
 
 1. ติดตั้ง XAMPP และเริ่ม Apache, MySQL ผ่าน XAMPP control panel
+2. นำไฟล์นี้ไปวางใน xampp/htdocs/<ไฟล์นี้> หรือ ใช้ command line เข้าถึงโฟลเดอร์ก่อนใช้คำสั่งต่อไปนี้
+   ```bash
+   git clone https://github.com/JuniorXprogramming/Route.git
+3. Import .sql เข้า MySQL
 
