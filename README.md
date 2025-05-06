@@ -22,4 +22,14 @@
    ```bash
    git clone https://github.com/JuniorXprogramming/Route.git
 3. Import .sql เข้า MySQL
+4. เปิดโปรเจคผ่าน URL http://localhost/route
 
+## การใช้งาน
+คุณสามารถเข้าใช้งานผ่าน http://localhost/route โดยให้ป้อนจุดเริ่มต้นและจุดหมายที่ต้องการค้นหาเส้นทาง
+
+## ข้อจำกัด
+- โปรเจคนี้ใช้ข้อมูลจำลอง
+- โปรเจคนี้ใช้เพื่อกรณีศึกษาเท่านั้น
+
+## สร้างโดย
+#Thammarach Decutai
